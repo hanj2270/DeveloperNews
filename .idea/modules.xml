@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GithubNewsProvider.iml" filepath="$PROJECT_DIR$/GithubNewsProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeveloperNews.iml" filepath="$PROJECT_DIR$/DeveloperNews.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

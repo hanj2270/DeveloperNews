@@ -35,9 +35,6 @@
         <activity
             android:name=".ui.activity.ViewerActivity"
             android:theme="@style/Transparent">
-            <!--<meta-data-->
-            <!--android:name="android.support.PARENT_ACTIVITY"-->
-            <!--android:value=".ViewerActivity" />-->
         </activity>
         <service android:name=".service.ImageFetchService" />
         <service android:name=".service.StuffFetchService" />
